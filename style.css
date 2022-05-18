@@ -1,0 +1,29 @@
+h2{
+    font-size: 30px;
+}
+
+th{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+}
+
+td{
+    color: white;
+    background-color: #424250;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.cabecalho_moda{
+    color: white;
+    background-color: #BB86FC;
+}
+
+.cabecalho_casa{
+    color: white;
+    background-color: #00C4B4;
+
+}
+
+
